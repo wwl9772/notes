@@ -1,32 +1,5 @@
-# 章节和子章节
-
-GitBook使用文件 `SUMMARY.md` 来定义书本的章节和子章节的结构。文件 `SUMMARY.md` 被用来生成书本内容的预览表。
-
-`SUMMARY.md` 的格式是一个简单的链接列表，链接的名字是章节的名字，链接的指向是章节文件的路径。
-
-子章节被简单的定义为一个内嵌于父章节的列表。
-
-## 简单的例子
-
-```markdown
-# 概要
-
-* [章节 1](chapter1.md)
-* [章节 2](chapter2.md)
-* [章节 3](chapter3.md)
-```
-
-## 包含子章节的例子
-
-```markdown
-# 概要
-
-* [卷 I](part1/README.md)
-    * [写作很棒](part1/writing.md)
-    * [GitBook很酷](part1/gitbook.md)
-* [卷 II](part2/README.md)
-    * [期待反馈](part2/feedback_please.md)
-    * [更好的写作工具](part2/better_tools.md)
-```
-
-
+# 初涉 linux
+   
+学习第一周，进入网站后我完成了github的注册任务，但是由于网站更新过慢，利用github注册gitbook并未成功，所以第二周利用wwl9772/notes成功注册了自己的小书wwl,开始编辑记录自己的学习历程。
+同时第一周也成功地在issues记录下了自己的信息。
+在自己的电脑上，一开始自己用u盘拷的文件部分损毁所以没有安装成功，后由同学百度云文件下载安装，首先安装成功了vmware,然后根据百度提示一步一步地直接在虚拟机安装linux. 
