@@ -1,7 +1,7 @@
 # 介绍
 
 这是笔记/教程的初始模板，可以从 fork 这个工程开始。
-内容可以自己创建、修改或删除。
+
 
 写作提示见 https://github.com/su-da/notes/wiki
 
